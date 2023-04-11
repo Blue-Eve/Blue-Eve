@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Eva
 
-🧠 I have degree in mathematics and experience in online marketing
-🎓 I recently completed the Data Science bootcamp at Le Wagon 
+🧠 I have degree in mathematics and experience in online marketing/n
+🎓 I recently completed the Data Science bootcamp at Le Wagon /n
 🌱 and am currently learning more about data science 🤖! 
 <!--
 **Blue-Eve/Blue-Eve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

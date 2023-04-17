@@ -2,7 +2,7 @@
 
 🧠 I have degree in mathematics and experience in online marketing
 
-🎓 I recently completed the Data Science bootcamp at Le Wagon
+🎓 I recently completed the Data Science bootcamp at Le Wagon: [final project](https://github.com/Blue-Eve/potluck_project)
 
 🌱 and am currently learning more about data science 🤖! 
 <!--
